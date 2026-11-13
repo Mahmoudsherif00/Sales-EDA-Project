@@ -1,0 +1,32 @@
+# Dataset Files
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+
+# Data Folders
+data/
+dataset/
+datasets/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
